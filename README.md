@@ -10,3 +10,5 @@ Google drive [link](https://drive.google.com/drive/folders/1zsGemidVeRAzKehKNOEb
 - [Source Code](https://drive.google.com/file/d/1sec7Ky9xzzjqyLG7VA0Jx0LBXsIEUJgh/view?usp=sharing)
 - [DB](https://drive.google.com/file/d/1pyzsxMktjIO_sLsgbD3Y4lqF8xEl6vqt/view?usp=sharing)
 
+ls -l `which java`
+
