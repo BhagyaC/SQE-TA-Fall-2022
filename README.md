@@ -1,6 +1,6 @@
 # SQE-TA-Fall-2022
 
-Github basic Introduction
+## Github basic Introduction
 Git basics can be found [here](https://rogerdudler.github.io/git-guide/)
 
 ## Mango Installation guide
