@@ -17,3 +17,8 @@ Google drive [link](https://drive.google.com/drive/folders/1zsGemidVeRAzKehKNOEb
 ls -l `which java` [java8](https://www.oracle.com/java/technologies/downloads/#jre8-macos)
 
 
+## Survey
+
+https://survey.az1.qualtrics.com/jfe/form/SV_7W0krgiorw8GPuS
+
+
