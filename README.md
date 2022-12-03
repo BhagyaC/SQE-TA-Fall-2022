@@ -17,8 +17,11 @@ Google drive [link](https://drive.google.com/drive/folders/1zsGemidVeRAzKehKNOEb
 ls -l `which java` [java8](https://www.oracle.com/java/technologies/downloads/#jre8-macos)
 
 
-## Survey
+## Security Quality Plan
 
-https://survey.az1.qualtrics.com/jfe/form/SV_7W0krgiorw8GPuS
+https://docs.google.com/document/d/11CRGY-oaYV2I1qv2YkWEl-QJztsexeKnP5ChEdrrTUM/edit?usp=sharing
+
+
+
 
 
